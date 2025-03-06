@@ -3,9 +3,7 @@
 
 Specialist in Quality and Software Testing, working in Telecommunications, Banking, and Games Systems. Knowledgeable in project management methodologies such as Kanban, Scrum, and Agile, technical development tools, systemic and strategic analysis.
 
-Professional with over 13 years of experience in Information Technology and Quality Assurance, specializing in digital communication. Worked with major companies like SKY, Callflex, Keeggo, and Ortiz Games, contributing significantly to the development of strategies and technology solutions.
-
-Constantly enhancing skills in Software Development and Quality, Data Analysis, and Process Automation.
+Constantly enhancing skills in Software Development and Quality, Data Analysis, Leadership and Process Automation.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
